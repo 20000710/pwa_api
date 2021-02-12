@@ -1,12 +1,14 @@
-"data": [
-  {"id":1,"name":"Bottle-nose dolphin","category":"Fuscia"},
-  {"id":2,"name":"Cormorant, flightless","category":"Purple"},
-  {"id":3,"name":"Tortoise, desert","category":"Mauv"},
-  {"id":4,"name":"Wallaby, dama","category":"Pink"},
-  {"id":5,"name":"Lion, african","category":"Khaki"},
-  {"id":6,"name":"Zebra, common","category":"Green"},
-  {"id":7,"name":"Cormorant, flightless","category":"Aquamarine"},
-  {"id":8,"name":"Spoonbill, white","category":"Mauv"},
-  {"id":9,"name":"Blue duck","category":"Turquoise"},
-  {"id":10,"name":"Brown hyena","category":"Goldenrod"}
-]
+{
+  "data": [
+    {"id":1,"name":"Bottle-nose dolphin","category":"Fuscia"},
+    {"id":2,"name":"Cormorant, flightless","category":"Purple"},
+    {"id":3,"name":"Tortoise, desert","category":"Mauv"},
+    {"id":4,"name":"Wallaby, dama","category":"Pink"},
+    {"id":5,"name":"Lion, african","category":"Khaki"},
+    {"id":6,"name":"Zebra, common","category":"Green"},
+    {"id":7,"name":"Cormorant, flightless","category":"Aquamarine"},
+    {"id":8,"name":"Spoonbill, white","category":"Mauv"},
+    {"id":9,"name":"Blue duck","category":"Turquoise"},
+    {"id":10,"name":"Brown hyena","category":"Goldenrod"}
+  ]
+}
